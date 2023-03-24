@@ -2,12 +2,12 @@ public class Coche
 {
     int velocidad;
 
-    public void acelerar(int aceleracion)
+    public void acelerar_Angel_Fuentes(int aceleracion)
     {
         velocidad += aceleracion;
     }
 
-    public void decelerar(int deceleracion) {
+    public void decelerar_Angel_Fuentes(int deceleracion) {
         velocidad -= deceleracion;
         if (velocidad < 0)
         {
