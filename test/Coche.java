@@ -1,2 +1,4 @@
-public class Coche {
+public class Coche
+{
+    public int velocidad;
 }
